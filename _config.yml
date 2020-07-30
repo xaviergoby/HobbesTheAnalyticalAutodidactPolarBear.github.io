@@ -1,3 +1,3 @@
-theme: jekyll-theme-midnight
-# remote_theme: mmistakes/so-simple-theme
+#theme: jekyll-theme-midnight
+ remote_theme: mmistakes/so-simple-theme
 title: Welcome to my burough, a den of an ecletic assortment of stuff
