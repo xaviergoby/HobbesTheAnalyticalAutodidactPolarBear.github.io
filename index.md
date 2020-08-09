@@ -1,7 +1,7 @@
 <!--
 
 ---
-title: My page
+title: Hey
 layout: default
 ---
 
