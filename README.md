@@ -1,8 +1,6 @@
-## Testing, testing un, deux, trois
+ New static page testing using a contact.html page [contact](https://github.com/contact.html) which should work!?!?
 
 
-## Welcome to GitHub Pages
-asdasdasd       
 You can use the [editor on GitHub](https://github.com/xaviergoby/HobbesTheAnalyticalAutodidactPolarBear.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
